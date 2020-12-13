@@ -1,0 +1,24 @@
+SELECT *
+  FROM [SS10_G1].[dbo].[Complaints]
+  SELECT *
+  FROM Employee
+  SELECT *
+  FROM Feedback
+  SELECT *
+  FROM OrderComplaints
+  SELECT *
+  FROM Orders
+  SELECT *
+  FROM PriceHistory
+  SELECT *
+  FROM ProductInShops
+  SELECT * 
+  FROM Products
+  SELECT *
+  FROM ProductsInOrder
+  SELECT *
+  FROM ShopComplaints
+  SELECT *
+  FROM Shops
+  SELECT *
+  FROM Users
